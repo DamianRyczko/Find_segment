@@ -24,7 +24,7 @@ int find_segments(vector<int> tab){
 
                  if(suma>suma_max){
                     suma_max=suma;
-                    cout<<"now max wartosc: "<<suma_max<<" dla przedialu od "<<a<<" do "<<j<<endl;
+                    cout<<"now max wartosc: "<<suma_max<<" dla przedialu od "<<a<<" do "<<j+1<<endl;
                  }
         }
 
